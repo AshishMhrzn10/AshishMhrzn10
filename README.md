@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmhrzn10&layout=compact" alt="ashishmhrzn10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishmhrzn10&show_icons=true&theme=dracula" alt="ashishmhrzn10" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ashishmhrzn10&show_icons=true&theme=dracula" alt="ashishmhrzn10" /></p>
 
 <!--
 **AshishMhrzn10/AshishMhrzn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
