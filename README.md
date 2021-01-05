@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a **student**
 
-- 🌱 I’m currently learning **Django with React**
+- 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **amaharjan1032@gmail.com**
 
