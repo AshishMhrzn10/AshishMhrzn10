@@ -12,7 +12,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.facebook.com/amaharjan1032" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashish maharjan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ashish_mhrzn10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dsadafa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashishmaharjan10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dsadafa" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/%C3%A3shish-mhrzn-59b7b4188/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fasfa" height="30" width="40" /></a>
 </p>
 
