@@ -30,11 +30,11 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" alt="solidity" width="40" height="40"/>
 </p>
-<div>
-<img src="https://github-readme-stats.spielers.vercel.app/api?username=ashishmhrzn10&show_icons=true&theme=dracula" align="left"/>
-<img src="https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=ashishmhrzn10&layout=compact&theme=dracula" align="right"/>
-  
-<img style="margin-top: 30px;" src="https://github-readme-streak-stats.herokuapp.com?user=AshishMhrzn10&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" align="left" />
+
+![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=ashishmhrzn10&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=ashishmhrzn10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AshishMhrzn10&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **AshishMhrzn10/AshishMhrzn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
