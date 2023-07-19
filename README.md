@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋👋, I'm Ashish Maharjan.</h1>
-<h3 align="center">Just a beginner trying to learn more and more.😇</h3>
+<h3 align="center">Just an intermediate trying to learn more and more.😇</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmhrzn10" alt="ashishmhrzn10" /> </p>
 
-- 🔭 I’m currently a **student**
+- 🔭 I’m currently a **Junior Software Developer**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently **learning**
 
 - 📫 How to reach me **amaharjan1032@gmail.com**
 
