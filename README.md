@@ -20,6 +20,7 @@
 <p align="left"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSKRqfBTwxDrkXXjwLUC4EYxyWbSEIU8RTRMDw-U8xsXTGom1WT9PzBYv4bDg5hXPWS8&usqp=CAU" alt="solidity" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="70" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
@@ -29,6 +30,7 @@
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" alt="solidity" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="postman" width="40" height="40"/>
 </p>
 
 ![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=ashishmhrzn10&show_icons=true&theme=dracula)
