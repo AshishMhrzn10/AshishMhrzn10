@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmhrzn10" alt="ashishmhrzn10" /> </p>
 
-- 🔭 I’m currently a **Junior Software Developer**
+- 🔭 **Software Developer**
 
 - 🌱 I’m currently **learning**
 
